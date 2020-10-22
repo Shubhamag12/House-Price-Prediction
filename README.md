@@ -3,6 +3,7 @@
 
 ## Overview
 This is an ML-based application that predicts the house prices based upon the features provided (such as area, num of bedrooms, etc.)
+For testing using sample inputs, click [here](https://github.com/Shubhamag12/House-Price-Prediction/blob/main/Delhi_load.ipynb)
 
 Model Used | Accuracy
 ------------ | -------------
