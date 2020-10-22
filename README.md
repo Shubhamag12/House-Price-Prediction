@@ -26,7 +26,7 @@ Given a set of features, predict the price of any given house in the Delhi regio
   <summary><b>Dataset Summary</b></summary>
   
   
-  1. Reference link for dataset : [click here]()
+  1. Reference link for dataset : [click here](https://www.kaggle.com/ruchi798/housing-prices-in-metropolitan-areas-of-india?select=Delhi.csv)
   2. df.info()
   
   ![Image for dataframe summary](https://github.com/Shubhamag12/House-Price-Prediction/blob/main/Images/Display_image.png)
@@ -94,7 +94,7 @@ Two models were cosidered as most optimum ones, whose predictions are depicted b
 Ordinary Least Squares | Linear Regressor
 ------------ | -------------
 ![OLS Plot](https://github.com/Shubhamag12/House-Price-Prediction/blob/main/Images/ols_model_prediction_plots.png) | ![Linear Regression Plot](https://github.com/Shubhamag12/House-Price-Prediction/blob/main/Images/linear_regression_model_prediction.png)
-92.9 (R-squared value) | 81.705317 (Cost)
+92.9 (R-squared value) | 81.705317 (Score)
 
 
 ## Results
