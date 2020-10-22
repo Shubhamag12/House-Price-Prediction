@@ -10,7 +10,7 @@ Linear Regressor | 81.705317 (Cost)
 Ordinary Least Squares | 92.9 (R-squared value)
 
 File Description:
-- **DElhi_load.ipynb** : Application interface for users.
+- **Delhi_load.ipynb** : Application interface for users.
 - **CSV File/ Delhi.csv** : dataset
 - **Codes/ Delhi.ipynb** : Main file with all processing stuff
 - **Codes/ ols_results_delhi.pickle** : Pickled OLS model after training on dataset
