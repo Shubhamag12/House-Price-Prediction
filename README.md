@@ -29,7 +29,9 @@ Given a set of features, predict the price of any given house in the Delhi regio
   1. Reference link for dataset : [click here]()
   2. df.info()
   
-  ![Image for datafraame summary](https://github.com/Shubhamag12/House-Price-Prediction/blob/main/Images/Dataframe_infpo.png)
+  ![Image for dataframe summary](https://github.com/Shubhamag12/House-Price-Prediction/blob/main/Images/Display_image.png)
+  
+  For full image [Click here](https://github.com/Shubhamag12/House-Price-Prediction/blob/main/Images/Dataframe_infpo.png)
 </details>
 
 <details>
